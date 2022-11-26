@@ -6,7 +6,7 @@
   
   <a href="https://github.com/TuringCompleteCO/.github/blob/main/JOIN.md"><b>JOIN</b></a> - | <a href="https://github.com/TuringCompleteCO/.github">About</a> | <a href="https://github.com/TuringCompleteCO/community">Community</a> | <a href="https://github.com/orgs/TuringCompleteCO/discussions">Discussions</a> | <a href="https://github.com/TuringCompleteCO/community/wiki">Wiki</a>  |
   
-  <img width="30%" src="https://user-images.githubusercontent.com/91491726/198176444-61286fe2-06ab-4f54-b804-1d5b0e291c2a.png"/>
+  <img width="30%" src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"/>
   
 #
 
