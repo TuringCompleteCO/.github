@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/91491726/198132820-3e7ae293-8f16-4af5-9d00-8f7e08f75542.png"/>
+  <img height="100" src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"/>
   <h6>Turing Complete</h6>
   <h1>ABOUT</h1>
   <p>Complete the loop</p>
